@@ -1,6 +1,5 @@
-# Project Title
+# Autonomous Robot Cleaner
 
-Brief description of your project.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
