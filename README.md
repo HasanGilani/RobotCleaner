@@ -31,11 +31,11 @@ myenv\Scripts\activate
 On macOS and Linux:
 source myenv/bin/activate
 
-Install Dependencies
+## Install Dependencies
 pip install -r requirements.txt
 
-Running the Training Script
+## Running the Training Script
 python experiment.py
 
-Running the Testing Script
+## Running the Testing Script
 python test_agent.py
